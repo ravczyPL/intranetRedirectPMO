@@ -1,0 +1,10 @@
+{
+    "routes": [
+      {
+        "route": "/*",
+        "redirect": "https://kaemgroup.sharepoint.com/sites/ProjectManagementOffice",
+        "statusCode": 301
+      }
+    ]
+  }
+  
